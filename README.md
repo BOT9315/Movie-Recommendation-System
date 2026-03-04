@@ -36,7 +36,6 @@ The Movie Recommendation System provides intelligent movie suggestions using **c
 
 ![Header Image](./assets/images-for-readme/Header.png)
 
-
 ### Why This Project?
 
 - ✅ **Production Ready** - Security hardened, optimized, well-documented
